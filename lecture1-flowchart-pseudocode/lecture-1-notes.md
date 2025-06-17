@@ -1,7 +1,7 @@
 # Lecture 1 :- FlowChart + PseudoCode + Installation
 
 Q1 What is the need of doing DSA Course?   
-Ans. Whenever we apply for software engineer role in tech companies, the interviewers will ask some DSA Questions just to know how good problem solvers we are. Interviewers will ask some DSA Questions that developers have to solve efficiently and optimistically by using DSA concepts.
+Ans. Whenever we apply for software engineer role in tech companies, the interviewers will ask some DSA Questions just to know how good problem solver you are. Interviewers will ask some DSA Questions that developers have to solve efficiently and optimistically by using DSA concepts.
 
 Q2. List of Data Structures & Algorithms that we will be studying throughout this course?\
 Ans. 
@@ -103,7 +103,7 @@ Ans.
     4. Given a person's age, find if they shoould get a driving license or not
 
 Q12. How does code run?\
-Ans. A developer will write C++ code inside digital notebook i.e. Visual Studio Code Editor or VS Code Editor. The translator i.e. C++ compiler will take the C++ code as an input and convert it into 0's & 1's language i.e. binary language or executable code which computer understands. Now, the computer will execute this executable code.
+Ans. A developer will write Java code inside digital notebook i.e. Visual Studio Code Editor or VS Code Editor. The translator i.e. Java compiler will take the Java code as an input and convert it into 0's & 1's language i.e. binary language or executable code which computer understands. Now, the computer will execute this executable code.
 
 0 means current is not passed to the computer and 1 means current is passed to the computer.
 
@@ -111,4 +111,4 @@ Q13. What to download?\
 Ans. 
 
     1. VS Code Editor
-    2. Setup C++ (install C++ compiler inside your local machine)
+    2. Setup Java in your local machine (install Java compiler inside your local machine)
