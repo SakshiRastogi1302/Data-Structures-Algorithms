@@ -25,5 +25,6 @@ public class MaximumSubarraySumUsingBruteForceApproach {
         }
 
         System.out.println(maxSum);
+        sc.close();
     }
 }
