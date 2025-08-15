@@ -1,5 +1,3 @@
-
-import java.sql.Blob;
 import java.util.Scanner;
 
 public class NthFibonacci {
